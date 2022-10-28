@@ -1,0 +1,17 @@
+E:\Users\User\Desktop\Hourly\bin\Debug\net6.0-windows\Hourly.exe
+E:\Users\User\Desktop\Hourly\bin\Debug\net6.0-windows\Hourly.deps.json
+E:\Users\User\Desktop\Hourly\bin\Debug\net6.0-windows\Hourly.runtimeconfig.json
+E:\Users\User\Desktop\Hourly\bin\Debug\net6.0-windows\Hourly.dll
+E:\Users\User\Desktop\Hourly\bin\Debug\net6.0-windows\ref\Hourly.dll
+E:\Users\User\Desktop\Hourly\bin\Debug\net6.0-windows\Hourly.pdb
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.csproj.AssemblyReference.cache
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.frm_home.resources
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.csproj.GenerateResource.cache
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.AssemblyInfoInputs.cache
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.AssemblyInfo.cs
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.csproj.CoreCompileInputs.cache
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.dll
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\ref\Hourly.dll
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.pdb
+E:\Users\User\Desktop\Hourly\obj\Debug\net6.0-windows\Hourly.genruntimeconfig.cache
